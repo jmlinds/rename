@@ -9,12 +9,12 @@
 title: Jessica Lindsay (site under construction)
 
 # Your name to show in the footer
-author: Some Person
+author: Jessica Lindsay
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme" #should match name of file, and then your "About Me" page will show the contents of that file
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -228,4 +228,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
