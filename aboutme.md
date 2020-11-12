@@ -3,9 +3,9 @@ layout: page
 title: About me
 subtitle:
 ---
-![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/master/img/IMG_1930_square.png)
+<!-- ![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/master/img/IMG_1930_square.png) -->
 
-My name is Inigo Montoya. I have the following qualities:
+<!--My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
