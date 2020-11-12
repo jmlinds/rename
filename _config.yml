@@ -16,7 +16,7 @@ author: Jessica Lindsay
 navbar-links:
   About Me: "aboutme" #should match name of file, and then your "About Me" page will show the contents of that file
   CV: "/CV/JessicaLindsayCV_11.20_abbrev.pdf"
-  Photos from the Field: "gallery"
+  Photos from the Field: {% include image-gallery.html folder="/gallerypics/" %}
   #Photos from the Field: #would like the have this if a gallery is possible
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
