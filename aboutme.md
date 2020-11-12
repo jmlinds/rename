@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle:
 ---
+![](https://github.com/jmlinds/jmlinds.github.io/blob/master/img/IMG_1930_square.png)
 
 My name is Inigo Montoya. I have the following qualities:
 
