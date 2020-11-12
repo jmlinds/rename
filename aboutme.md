@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle:
 ---
-![](https://github.com/jmlinds/jmlinds.github.io/blob/master/img/IMG_1930_square.png)
+![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/master/img/IMG_1930_square.png)
 
 My name is Inigo Montoya. I have the following qualities:
 
